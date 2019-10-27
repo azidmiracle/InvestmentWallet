@@ -1,46 +1,26 @@
-[{"Real Estate":
-      [{"name":"VISTA RECTO 23F - 02",
-        "Size":"21 sqm",
-        "Developer": "Vista Land",
-        "Location":"1896 Recto Ave, Quiapo, Manila, 1001 Metro Manila",
-        "TCP":"2762632",
-        "Payment Start Date":"August 2015",
-        "Payment End Date":"July 2020",
-        "Status":"On-going"
-       },
-       {"name":"VISTA RECTO 23F - 03",
-        "Size":"21 sqm",
-        "Developer": "Vista Land",
-        "Location":"1896 Recto Ave, Quiapo, Manila, 1001 Metro Manila",
-        "TCP":"2762632",
-        "Payment Start Date":"August 2015",
-        "Payment End Date":"July 2020",
-        "Status":"On-going"
-       },
-       {"name":"Trees Residences",
-        "Size":"30.36 sqm",
-        "Developer": "SMDC: Vancouver",
-        "Location":"SM City Fairview Annex 2 Quirino Highway, Corner Regalado Hwy, Novaliches, Quezon City, 1118 Metro Manila, Philippines",
-        "TCP":"2857000",
-        "Payment Start Date":"October 2019",
-        "Payment End Date":"August 2020",
-        "Status":"On-going"
-       }         
-    ] 
- 
-    },
-   {
-    "Stock Market":
-    [{ "Owner":"Mark August Loria",
-        "Broker":"Col Financial",
-        "Total Depoait":"0",
-        "Current Value":"200000"
-    },
-    { "Owner":"Emely Diaz",
-       "Broker":"Col Financial",
-      "Total Depoait":"603000",
-       "Current Value":"669869045"
-    }    
-    ]
-   }    
-    ]
+[
+  {
+    "name": "Meowsy",
+    "species" : "cat",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    }
+  },
+  {
+    "name": "Barky",
+    "species" : "dog",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
+  },
+  {
+    "name": "Purrpaws",
+    "species" : "cat",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
+  }
+]
